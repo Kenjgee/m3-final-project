@@ -233,3 +233,11 @@ header {
   width: 100%;
   max-width: 768px;
 }
+
+.header__customers--title {
+    margin-top: 80px;
+    color: #a0aec0;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.6;
+}
