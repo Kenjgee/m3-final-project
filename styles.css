@@ -104,7 +104,7 @@ button {
 
 .btn__menu {
   background-color: transparent;
-  font-size: 24px;
+  font-size: 16px;
   text-align: center;
   border: none;
   color:#243e63;
@@ -152,6 +152,7 @@ button {
 }
 .menu__list{
 padding: 16px;
+text-align: center;
 }
 
 .menu__link {
